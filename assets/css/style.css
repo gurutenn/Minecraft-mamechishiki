@@ -1,3 +1,9 @@
-div.title-logo {
+.header {
+    position: relative;
+}
+.header img {
+    position: absolute;
+}
+.title-logo {
     text-align: center;
 }
